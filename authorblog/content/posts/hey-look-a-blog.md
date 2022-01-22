@@ -16,5 +16,5 @@ Fun fact: I had my friend read through the first couple chapters of the first dr
 
 Anyway, I plan to update this site every day or week or year or so. At a minimum, I'll definitely probably update it when I publish a new book.
 
-Sloppy smooches,
-{Pen Name Not Yet Determined}
+Sloppy smooches,<br/>
+Flynn Blair (final name TBD)
