@@ -1,0 +1,7 @@
+[submodule "authorblog/themes/potato-dark"]
+	path = authorblog/themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
+[submodule "authorblog/public"]
+	path = authorblog/public
+	url = https://github.com/frizzkitten/blog2.git
+	branch = main
