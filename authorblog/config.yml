@@ -17,74 +17,26 @@ minify:
 
 languages:
   en:
-    languageName: "English"
-    weight: 1
     menu:
       main:
-        - name: Archive
-          url: archives
+        # - name: Archive
+        #   url: archive/
+        #   weight: 5
+        - name: Books
+          url: books/
           weight: 5
-        - name: Search
-          url: search/
-          weight: 10
+        - name: Blog
+          url: posts/
+          weight: 5
         # - name: Tags
-        #   url: tags/
+        #   url: tags
         #   weight: 10
-        - name: Categories
-          url: categories/
-          weight: 10
-
-  # fr:
-  #   languageName: ":fr:"
-  #   languageAltTitle: French
-  #   weight: 2
-  #   title: PaperModL2
-  #   profileMode:
-  #     enabled: true
-  #     title: PaperMod
-  #     # imageUrl: "#"
-  #     # imageTitle: my image
-  #     # imageWidth: 120
-  #     # imageHeight: 120
-  #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-  #     buttons:
-  #       - name: Blog
-  #         url: posts
-  #       - name: Tags
-  #         url: tags
-    menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: Tags
-          url: tags
-          weight: 10
-        - name: Categories
-          url: categories
-          weight: 10
-        - name: Series
-          url: series
-          weight: 10
-        - name: NullLink
-          url: "#"
-        - name: NullLink2
-          url: "#"
-        - name: NullLink3
-          url: "#"
-
-  # fa:
-  #   languagedirection: rtl
-  #   weight: 3
-  #   title: PaperMod RTL
-  #   homeInfoParams:
-  #     Title: "Hi there \U0001F44B"
-  #     Content: Welcome to RTL layout
-  #   menu:
-  #     main:
-  #       - name: Tags
-  #         url: tags
-  #         weight: 10
+        # - name: Categories
+        #   url: categories
+        #   weight: 10
+        # - name: Series
+        #   url: series
+        #   weight: 10
 
 outputs:
   home:
@@ -110,23 +62,14 @@ params:
   # comments: false
   images: ["papermod-cover.png"]
 
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-
   homeInfoParams:
     Title: "Flynn Blair"
     Content: >
       Welcome to my writings and mind! I hope you enjoy your stay, because you can never leave.
+      <br/><br/>
+      **First Law Progress:** 24,166 words
+      <br/>
+      **Last written:** "Shouts rang out through the night — some exuberant, some livid, some distressed, and most incoherent."
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/flynnblairbooks/"
@@ -209,3 +152,10 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+# taxonomies:
+#   year: year
+#   month: month
+# permalinks:
+#   post: "/posts/:year/:month/:slug/"
+#   year: "/posts/:slug/"
+#   month: "/posts/:slug/"
