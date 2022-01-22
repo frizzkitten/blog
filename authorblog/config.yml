@@ -1,4 +1,4 @@
-baseURL: "flynnblair.com/"
+baseURL: "https://www.flynnblair.com/"
 title: Flynn Blair
 paginate: 5
 theme: PaperMod
@@ -27,9 +27,9 @@ languages:
         - name: Search
           url: search/
           weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
+        # - name: Tags
+        #   url: tags/
+        #   weight: 10
         - name: Categories
           url: categories/
           weight: 10
