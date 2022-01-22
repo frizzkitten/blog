@@ -1,5 +1,5 @@
 ---
-title: "Hey Look, a Blog"
+title: "Hey Look, a Blog!"
 date: 2022-01-22T11:42:42-06:00
 draft: false
 ---
