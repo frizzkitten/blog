@@ -67,7 +67,11 @@ params:
     Content: >
       Welcome to my writings and mind! I hope you enjoy your stay, because you can never leave.
       <br/><br/>
-      **First Law Progress:** 24,166 words
+      **First Law Progress:** 
+      **<span style="color:green">Outlining</span>** → 
+      <span>Written</span> → 
+      <span>Edited</span> → 
+      <span>Published</span>
       <br/>
       **Last written:** "Shouts rang out through the night — some exuberant, some livid, some distressed, and most incoherent."
   socialIcons:
