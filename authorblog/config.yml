@@ -67,13 +67,15 @@ params:
     Content: >
       Welcome to my writings and mind! I hope you enjoy your stay, because you can never leave.
       <br/><br/>
-      **First Law Progress:** 
-      **<span style="color:green">Outlining</span>** → 
-      <span>Written</span> → 
+      **Progress on first book:** 
+      <span style="color:green">Outlined</span> → 
+      **<span style="color:green">Writing</span>** → 
       <span>Edited</span> → 
       <span>Published</span>
       <br/>
-      **Last written:** "Shouts rang out through the night — some exuberant, some livid, some distressed, and most incoherent."
+      **Words written:** 4029
+      <br/>
+      **Last written:** "Koal swore through gritted teeth as he kicked a wall."
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/flynnblairbooks/"
