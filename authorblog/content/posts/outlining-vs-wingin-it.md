@@ -1,5 +1,5 @@
 ---
-title: "Kevin is a dirty nut-bucket"
+title: "Outlining vs. Wingin' It"
 date: 2022-03-06T22:19:58-06:00
 draft: false
 ---
