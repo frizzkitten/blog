@@ -69,13 +69,13 @@ params:
       <br/><br/>
       **Progress on first book:** 
       <span style="color:green">Outlined</span> → 
-      **<span style="color:green">Writing</span>** → 
-      <span>Edited</span> → 
+      **<span style="color:green">Written</span>** → 
+      **<span>Editing</span>** → 
       <span>Published</span>
       <br/>
-      **Words written:** 65,129 / ~70,000
+      **Words written:** 65,473 / 65,473
       <br/>
-      **Last written:** “Can’t forget the fucking rat.”
+      **Last written:** “Welcome home.”
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/flynnblairbooks/"
