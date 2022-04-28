@@ -69,8 +69,8 @@ params:
       <br/><br/>
       **Progress on first book:** 
       <span style="color:green">Outlined</span> → 
-      **<span style="color:green">Written</span>** → 
-      **<span>Editing</span>** → 
+      <span style="color:green">Written</span> → 
+      **<span style="color:green">Editing</span>** → 
       <span>Published</span>
       <br/>
       **Words written:** 65,473 / 65,473
